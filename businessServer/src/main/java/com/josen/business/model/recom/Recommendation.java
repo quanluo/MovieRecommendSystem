@@ -2,6 +2,8 @@ package com.josen.business.model.recom;
 
 /**
  * 推荐项目的包装
+ * @author tongyi
+ * @data 2022/2/01
  */
 public class Recommendation {
 

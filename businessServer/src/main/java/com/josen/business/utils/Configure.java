@@ -18,6 +18,10 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.Properties;
 
+/**
+ * @author tongyi
+ * @data 2022/2/04
+ */
 @Configuration
 public class Configure {
 

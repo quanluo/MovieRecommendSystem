@@ -1,7 +1,7 @@
 package com.josen.kafkastream;
 
 /**
- *
+ * @author tongyi
  * Project: MovieRecommendSystem
  * Package: com.josen.kafkastream
  * Time:    2022/01/24

@@ -2,6 +2,10 @@ package com.josen.business.model.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
+/**
+ * @author tongyi
+ * @data 2022/2/01
+ */
 public class Movie {
 
     @JsonIgnore

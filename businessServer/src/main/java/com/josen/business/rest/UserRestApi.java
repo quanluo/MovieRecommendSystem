@@ -14,7 +14,10 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.Arrays;
 
-
+/**
+ * @author tongyi
+ * @data 2022/2/02
+ */
 @RequestMapping("/rest/users")
 @Controller
 public class UserRestApi {

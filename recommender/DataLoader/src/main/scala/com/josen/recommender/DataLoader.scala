@@ -14,7 +14,7 @@ import org.elasticsearch.common.transport.InetSocketTransportAddress
 import org.elasticsearch.transport.client.PreBuiltTransportClient
 
 /**
-  *
+  * @author tongyi
   * Project: MovieRecommendSystem
   * Package: com.jsoen.recommender
   * time:    2022/01/20

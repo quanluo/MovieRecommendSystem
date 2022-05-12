@@ -1,5 +1,9 @@
 package com.josen.business.utils;
 
+/**
+ * @author tongyi
+ * @data 2022/2/04
+ */
 public class Constant {
 
     //************** FOR MONGODB ****************

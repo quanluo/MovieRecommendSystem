@@ -5,6 +5,10 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author tongyi
+ * @data 2022/2/01
+ */
 public class User {
 
     @JsonIgnore

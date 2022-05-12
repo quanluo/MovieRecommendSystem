@@ -10,7 +10,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
 import redis.clients.jedis.Jedis
 
 /**
-  *
+  * @author tongyi
   * Project: MovieRecommendSystem
   * Package: com.josen.streaming
   * Time:    2022/01/23

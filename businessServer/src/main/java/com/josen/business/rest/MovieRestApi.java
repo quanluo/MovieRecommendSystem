@@ -15,7 +15,10 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Random;
 
-
+/**
+ * @author tongyi
+ * @data 2022/2/02
+ */
 @RequestMapping("/rest/movie")
 @Controller
 public class MovieRestApi {

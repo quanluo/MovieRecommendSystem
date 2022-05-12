@@ -7,7 +7,7 @@ import org.apache.spark.SparkConf
 import org.apache.spark.sql.{DataFrame, SparkSession}
 
 /**
-  *
+  * @author tongyi
   * Project: MovieRecommendSystem
   * Package: com.josen.statistics
   * time:    2022/01/21

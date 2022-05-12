@@ -4,6 +4,10 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import java.util.Date;
 
+/**
+ * @author tongyi
+ * @data 2022/2/01
+ */
 public class Tag {
 
     @JsonIgnore

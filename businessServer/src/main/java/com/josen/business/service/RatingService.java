@@ -18,6 +18,10 @@ import redis.clients.jedis.Jedis;
 
 import java.io.IOException;
 
+/**
+ * @author tongyi
+ * @data 2022/2/02
+ */
 @Service
 public class RatingService {
 

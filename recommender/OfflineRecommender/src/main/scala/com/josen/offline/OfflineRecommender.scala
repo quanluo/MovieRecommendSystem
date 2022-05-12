@@ -6,7 +6,7 @@ import org.apache.spark.sql.SparkSession
 import org.jblas.DoubleMatrix
 
 /**
-  *
+  * @author tongyi
   * Project: MovieRecommendSystem
   * Package: com.josen.offline
   * time:    2022/01/22

@@ -1,5 +1,9 @@
 package com.josen.business.model.request;
 
+/**
+ * @author tongyi
+ * @data 2022/2/01
+ */
 public class RateMoreRecommendationRequest {
 
     private int sum;

@@ -8,7 +8,7 @@ import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.SparkSession
 
 /**
-  *
+  * @author tongyi
   * Project: MovieRecommendSystem
   * Package: com.josen.offline
   *
